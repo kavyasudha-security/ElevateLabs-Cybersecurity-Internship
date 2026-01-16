@@ -8,3 +8,4 @@ This task focuses on understanding and documenting operating system security con
 
 ## Outcome
 This task helped reinforce the importance of OS-level security as the foundation of cybersecurity.
+Note: If the PDF does not render in GitHub preview, please download and open locally.
