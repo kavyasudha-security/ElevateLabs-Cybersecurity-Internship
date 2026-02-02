@@ -1,0 +1,16 @@
+Subject: Urgent: Unusual Login Attempt Detected
+
+From: security@paypa1-support.com
+
+Dear User,
+
+We detected an unusual login attempt on your account from an unknown device.
+
+To secure your account immediately, please verify your identity by clicking the link below:
+
+https://paypal-verification-secure.com/login
+
+Failure to verify within 24 hours may result in temporary suspension of your account.
+
+Thank you,
+PayPal Security Team

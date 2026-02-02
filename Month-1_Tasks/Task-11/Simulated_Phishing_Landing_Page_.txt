@@ -1,0 +1,14 @@
+Simulated Phishing Landing Page Description:
+
+The phishing email link redirects the user to a fake login page designed to resemble a legitimate PayPal login portal.
+
+The page contains the following fields:
+
+Email Address: ____________
+Password: ________________
+
+[ Verify Account ]
+
+Once the user clicks the "Verify Account" button, the credentials would be captured by the attacker and the user would be redirected to a generic error or success message.
+
+Note: This landing page was not actually created or hosted. It is a conceptual simulation for educational purposes only.

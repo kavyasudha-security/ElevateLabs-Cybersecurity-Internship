@@ -1,0 +1,7 @@
+Phishing Red Flags Identified:
+
+1. Suspicious sender email address (paypa1 instead of paypal)
+2. Urgent and threatening language
+3. Generic greeting ("Dear User")
+4. Suspicious and non-official URL
+5. Request for sensitive login credentials
