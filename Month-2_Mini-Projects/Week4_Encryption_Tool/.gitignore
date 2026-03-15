@@ -1,0 +1,10 @@
+# Ignore encryption keys
+secret.key
+
+# Ignore generated encrypted files
+encrypted_data.bin
+decrypted_data.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
